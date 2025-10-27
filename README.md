@@ -44,3 +44,6 @@ This project demonstrates:
 - Implement jumping, sliding, and obstacles.
 - Fix model orientation alignment.
 - Add UI (score counter, start/restart menu).
+
+- [![Temple Run Demo]](https://github.com/yourusername/TempleRun/blob/main/demo/s3d.mkv)
+
